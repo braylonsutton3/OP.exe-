@@ -1,0 +1,8 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+pandas>=2.2,<3
+numpy>=1.26,<3
+requests>=2.32,<3
+signalrcore==1.0.2
+websocket-client>=1.8,<2
+tzdata>=2025.2
